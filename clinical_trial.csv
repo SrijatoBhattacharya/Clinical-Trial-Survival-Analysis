@@ -1,0 +1,16 @@
+Patient_ID,Treatment,Months_Survived,Death_Event
+P001,Drug_A,12,1
+P002,Drug_A,15,1
+P003,Drug_A,22,0
+P004,Drug_A,24,1
+P005,Drug_A,30,0
+P006,Drug_A,36,0
+P007,Drug_A,18,1
+P008,Drug_B,6,1
+P009,Drug_B,8,1
+P010,Drug_B,12,1
+P011,Drug_B,14,0
+P012,Drug_B,16,1
+P013,Drug_B,20,1
+P014,Drug_B,24,0
+P015,Drug_B,10,1
