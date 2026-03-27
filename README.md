@@ -18,6 +18,5 @@ The dataset consists of anonymized patient records containing:
 * **Statistical Testing:** Log-Rank Test for P-value calculation
 
 ### Output / Results
-*(Note for Srijato: Once you save the README, edit it again and drag-and-drop your `survival_curve.png` right here so the graph actually shows up on the page).*
-
 The resulting survival curves indicate a clear divergence in outcomes, visualizing the comparative duration of survival between the two treatment groups over a 36-month period.
+<img width="640" height="480" alt="survival_curve" src="https://github.com/user-attachments/assets/d24c35db-dbf7-4d79-bd99-d2a160b0d319" />
